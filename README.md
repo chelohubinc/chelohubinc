@@ -37,7 +37,7 @@ Freelance developer with **4+ years of experience**, creating high-performance w
 ### 📫 Contact
 
 - **Portfolio:** [portfolio.borislukrece.com](https://portfolio.borislukrece.com)  
-- **Email:** ahotyboris225@gmail.com  
+- **Email:** contact@borislukrece.com  
 - **Location:** Abidjan, Côte d'Ivoire 🇨🇮  
 
 ---
