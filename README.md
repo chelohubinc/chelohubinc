@@ -28,7 +28,8 @@ Freelance developer with **4+ years of experience**, building high-performance w
 
 - **[Tic Tac Toe Online](https://tic-tac-toe.borislukrece.com):** Multiplayer online game with simple and responsive interface  
 - **[ArgentFlow](https://argent-flow.borislukrece.com):** Financial management app with interactive dashboards  
-- **[4Images1Mot Solution](https://4images1mot-solution.borislukrece.com):** Multi-site traffic management and user interaction optimization  
+- **[4Images1Mot Solution](https://4images1mot-solution.borislukrece.com):** Multi-site traffic management and user interaction optimization
+- And more..
 
 ---
 
