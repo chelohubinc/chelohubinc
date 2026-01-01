@@ -18,8 +18,8 @@ Freelance developer with **4+ years of experience**, building high-performance w
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=borislukrece&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislukrece&layout=compact&theme=tokyonight" height="150" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chelohubinc&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelohubinc&layout=compact&theme=tokyonight" height="150" alt="Most used languages" />
 </p>
 
 ---
